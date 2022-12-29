@@ -22,6 +22,8 @@ console.log(`The layout corresponds to the layout +48
 \n section contacts+7
 \n block <footer>+7`);
 
+
+
 console.log(`css + 12 requirements
 \n flexes or grids are used to build the grid +2
 \n when zooming out the browser page, the layout is placed in the center, and not shifted to the side +2
